@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hola, es una pelicula de accion y muy interesante 
+=======
+hola, es una pelicula de accion
+con mucha energia.
+ 
+>>>>>>> 6687e7f17fd3515be3034d20bc65130b99094eb5
